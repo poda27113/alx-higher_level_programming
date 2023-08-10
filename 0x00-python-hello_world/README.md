@@ -42,3 +42,53 @@ You can find the source code here
 You are not allowed to use any loops or conditional statements.
 You have to use the variables str1 and str2 in your new line of code
 Your program should be exactly 5 lines long
+
+Task 7- Complete this source code
+
+You can find the source code here
+You are not allowed to use any loops or conditional statements
+Your program should be exactly 8 lines long
+word_first_3 should contain the first 3 letters of the variable word
+word_last_2 should contain the last 2 letters of the variable word
+middle_word should contain the value of the variable word without the first and last letters
+
+Tasks 8- Complete this source code to print object-oriented programming with Python, followed by a new line.
+
+You can find the source code here
+You are not allowed to use any loops or conditional statements
+Your program should be exactly 5 lines long
+You are not allowed to create new variables
+You are not allowed to use string literals
+
+Tasks 9- Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+
+Your script should be maximum 98 characters long (please check with wc -m 9-easter_egg.py)
+
+Tasks 10- Technical interview preparation:
+
+You are not allowed to google anything
+Whiteboard first
+This task and all future technical interview prep tasks will include checks for the efficiency of your solution, i.e. is your solution’s runtime fast enough, does your solution require extra memory usage / mallocs, etc.
+Write a function in C that checks if a singly linked list has a cycle in it.
+
+Prototype: int check_cycle(listint_t *list);
+Return: 0 if there is no cycle, 1 if there is a cycle
+Requirements:
+
+Only these functions are allowed: write, printf, putchar, puts, malloc, free
+
+Tasks 11- Write a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
+
+Use the function write from the sys module
+You are not allowed to use print
+Your script should print to stderr
+Your script should exit with the status code 1
+
+Tasks 12- Write a script that compiles a Python script file.
+
+The Python file name will be stored in the environment variable $PYFILE
+
+The output filename has to be $PYFILEc (ex: export PYFILE=my_main.py => output filename: my_main.pyc)
+
+Tasks 13- Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+
